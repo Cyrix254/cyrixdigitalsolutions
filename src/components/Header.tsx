@@ -31,7 +31,7 @@ const Header = () => {
             </div>
             <div className="hidden sm:block">
               <div className="font-display font-bold text-xl text-foreground">
-                Cyrix Digital
+                Cyrix Digital Solutions
               </div>
               <div className="text-xs text-muted-foreground">Empowering Digital Growth</div>
             </div>

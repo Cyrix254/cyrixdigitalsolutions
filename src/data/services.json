@@ -86,5 +86,18 @@
     "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
     "details": "Monthly retainer for website updates, bug fixes, content updates, and technical support.",
     "features": ["Priority Support", "Monthly Updates", "Bug Fixes", "Content Changes", "Performance Monitoring"]
+  },
+
+  {
+    "id": "consult-02",
+    "category": "Consultations",
+    "title": "Technical Support",
+    "tagline": "Ongoing support for your digital presence",
+    "price": "From Ksh. 7,000/month",
+    "icon": "Headphones",
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
+    "details": "Monthly retainer for website updates, bug fixes, content updates, and technical support.",
+    "features": ["Priority Support", "Monthly Updates", "Bug Fixes", "Content Changes", "Performance Monitoring"]
   }
+
 ]

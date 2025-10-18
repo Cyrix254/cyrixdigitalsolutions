@@ -3,6 +3,8 @@ import { Facebook, Instagram, Linkedin, Music2, Download } from 'lucide-react';
 import { motion } from 'framer-motion';
 import siteData from '@/data/site.json';
 
+
+
 const QuickLinks = () => {
   const links = [
     { name: 'Home', path: '/' },

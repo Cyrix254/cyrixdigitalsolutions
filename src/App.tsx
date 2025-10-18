@@ -18,6 +18,8 @@ import Contact from "./pages/Contact";
 import FAQ from "./pages/FAQ";
 import NotFound from "./pages/NotFound";
 
+
+
 const queryClient = new QueryClient();
 
 const PageTransition = ({ children }: { children: React.ReactNode }) => {

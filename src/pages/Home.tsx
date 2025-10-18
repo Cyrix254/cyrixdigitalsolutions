@@ -80,18 +80,23 @@ const Home = () => {
             animate="visible"
             className="max-w-3xl text-white"
           >
-            {/* Logo */}
-            <motion.div variants={itemVariants} className="flex items-center space-x-3 mb-8">
-              <div className="w-16 h-16 bg-gradient-to-br from-accent to-primary rounded-xl flex items-center justify-center font-display font-bold text-3xl shadow-2xl">
-                C
-              </div>
-              <div>
-                <h1 className="font-display font-bold text-3xl md:text-4xl">
-                  Cyrix Digital Solutions
-                </h1>
-                <p className="text-accent text-lg font-medium">{siteData.tagline}</p>
-              </div>
-            </motion.div>
+           {/* Logo */}
+<motion.div
+  variants={itemVariants}
+  className="flex items-center space-x-3 mb-8"
+>
+  <div className="w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-accent to-primary rounded-xl flex items-center justify-center font-display font-bold text-2xl sm:text-3xl shadow-2xl">
+    C
+  </div>
+  <div>
+    <h1 className="font-display font-bold text-2xl sm:text-3xl md:text-4xl">
+      Cyrix Digital Solutions
+    </h1>
+    <p className="text-accent text-sm sm:text-lg font-medium">
+      {siteData.tagline}
+    </p>
+  </div>
+</motion.div>
 
             {/* Tagline & Description */}
             <motion.p

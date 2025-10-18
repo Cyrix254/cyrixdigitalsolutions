@@ -140,24 +140,4 @@ All colors MUST be HSL.
   font-size: 18px;
 }
 
-/* Add this to your index.css */
 
-/* Default navigation bar styles */
-.navbar {
-  padding: 1rem; /* Adjust padding as needed */
-  font-size: 1rem; /* Default font size */
-}
-
-/* Adjust navigation bar for mobile devices */
-@media (max-width: 768px) {
-  .navbar {
-    padding: 0.5rem; /* Reduce padding for smaller screens */
-    font-size: 0.875rem; /* Reduce font size for better fit */
-  }
-
-  .navbar-brand {
-    white-space: nowrap; /* Prevent text wrapping */
-    overflow: hidden;
-    text-overflow: ellipsis; /* Add ellipsis if text overflows */
-  }
-}

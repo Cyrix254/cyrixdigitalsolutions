@@ -50,7 +50,7 @@ const About = () => {
               About Cyrix Digital Solutions
             </h1>
             <p className="text-lg md:text-xl text-white/90">
-              We're a passionate team dedicated to empowering businesses with exceptional digital solutions. From web development to graphic design, we bring your vision to life with creativity and technical excellence.
+              We're a passionate team dedicated to empowering businesses with exceptional digital solutions. From web development, graphic design to digital strategy we bring your vision to life with creativity and technical excellence.
             </p>
           </motion.div>
         </div>
@@ -153,15 +153,15 @@ const About = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-primary/20 rounded-2xl blur-2xl"></div>
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
-                  alt="Reagan Tzisaga - Founder of Cyrix Digital Solutions"
+                  src="src/assets/founder.jpg"
+                  alt="Cyrix Ray - Founder of Cyrix Digital Solutions"
                   className="relative rounded-2xl shadow-2xl w-full glow-effect"
                 />
               </div>
 
               {/* Founder Info */}
               <div>
-                <h3 className="font-display font-bold text-3xl mb-2">Reagan Tzisaga</h3>
+                <h3 className="font-display font-bold text-3xl mb-2">Cyrix Ray</h3>
                 <p className="text-accent font-semibold mb-4">Founder & Lead Developer</p>
                 
                 <div className="bg-primary/5 border-l-4 border-primary p-6 rounded-r-xl mb-6 italic">
@@ -171,7 +171,7 @@ const About = () => {
                 </div>
 
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  With over 5 years of experience in web development, graphic design, and digital strategy, Reagan has helped hundreds of businesses establish and grow their online presence. His passion for technology and design drives every project, ensuring clients receive solutions that are both beautiful and functional.
+                  With years of experience in web development, graphic design, and digital strategy, Cyrix has helped hundreds of businesses establish and grow their online presence. His passion for technology and design drives every project, ensuring clients receive solutions that are both beautiful and functional.
                 </p>
 
                 {/* Social Links */}

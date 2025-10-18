@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p-01",
+    "category": "Web",
+    "title": "Zuri Coffee Website",
+    "description": "E-commerce website with custom checkout and CMS",
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800",
+    "technologies": ["React", "Stripe", "Shopify"],
+    "link": "#"
+  },
+  {
+    "id": "p-02",
+    "category": "Web",
+    "title": "Mavazi Fashion Store",
+    "description": "Modern fashion e-commerce with virtual try-on",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+    "technologies": ["Next.js", "AR Kit", "Commerce.js"],
+    "link": "#"
+  },
+  {
+    "id": "p-03",
+    "category": "Web",
+    "title": "TechHub Kenya",
+    "description": "Community platform for tech professionals",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800",
+    "technologies": ["React", "Firebase", "Tailwind"],
+    "link": "#"
+  },
+  {
+    "id": "p-04",
+    "category": "Graphics",
+    "title": "Savanna Lodge Branding",
+    "description": "Complete brand identity for luxury safari lodge",
+    "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?w=800",
+    "technologies": ["Illustrator", "Photoshop", "InDesign"],
+    "link": "#"
+  },
+  {
+    "id": "p-05",
+    "category": "Graphics",
+    "title": "Urban Eats Restaurant",
+    "description": "Menu design and marketing materials",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+    "technologies": ["Photoshop", "Illustrator"],
+    "link": "#"
+  },
+  {
+    "id": "p-06",
+    "category": "Web",
+    "title": "EduLearn Platform",
+    "description": "Online learning management system",
+    "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "link": "#"
+  },
+  {
+    "id": "p-07",
+    "category": "Courses",
+    "title": "Digital Marketing Course",
+    "description": "Comprehensive online marketing training",
+    "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=800",
+    "technologies": ["Video Production", "Course Platform"],
+    "link": "#"
+  },
+  {
+    "id": "p-08",
+    "category": "Graphics",
+    "title": "Startup Pitch Decks",
+    "description": "Investor-ready presentation designs",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800",
+    "technologies": ["PowerPoint", "Keynote", "Figma"],
+    "link": "#"
+  }
+]

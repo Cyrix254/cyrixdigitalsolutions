@@ -1,0 +1,56 @@
+[
+  {
+    "id": "t-01",
+    "name": "Asha Mwangi",
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+    "rating": 5,
+    "company": "Asha Boutique",
+    "role": "Founder & CEO",
+    "feedback": "Cyrix transformed our online presence — our online sales doubled in just 3 months. The website is beautiful and our customers love the seamless shopping experience!"
+  },
+  {
+    "id": "t-02",
+    "name": "James Omondi",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+    "rating": 5,
+    "company": "BuildRight Construction",
+    "role": "Managing Director",
+    "feedback": "Professional, responsive, and truly understands business needs. Our new website generates quality leads every week. Best investment we've made in our digital presence."
+  },
+  {
+    "id": "t-03",
+    "name": "Sarah Kimani",
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+    "rating": 5,
+    "company": "Fresh Harvest Kenya",
+    "role": "Operations Manager",
+    "feedback": "The e-commerce platform Reagan built for us handles thousands of orders seamlessly. The training and support have been exceptional. Highly recommend Cyrix!"
+  },
+  {
+    "id": "t-04",
+    "name": "David Njoroge",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "rating": 5,
+    "company": "TechStart Hub",
+    "role": "Co-Founder",
+    "feedback": "Working with Cyrix was a game-changer for our startup. The branding and web design perfectly capture our vision. Our investor pitch deck got rave reviews!"
+  },
+  {
+    "id": "t-05",
+    "name": "Grace Wanjiku",
+    "photo": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400",
+    "rating": 5,
+    "company": "Elite Spa & Wellness",
+    "role": "Owner",
+    "feedback": "From brand identity to social media graphics, everything is stunning. Our clients constantly compliment our professional look. Reagan is incredibly talented!"
+  },
+  {
+    "id": "t-06",
+    "name": "Michael Kariuki",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "rating": 5,
+    "company": "Smart Logistics Ltd",
+    "role": "CEO",
+    "feedback": "The web application Cyrix developed streamlined our entire logistics operation. Real-time tracking and automated reports save us hours every day. Exceptional work!"
+  }
+]

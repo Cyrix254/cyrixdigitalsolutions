@@ -1,0 +1,90 @@
+[
+  {
+    "id": "web-01",
+    "category": "Web Development",
+    "title": "Business Website",
+    "tagline": "Modern, responsive websites to grow your brand",
+    "price": "From $450",
+    "icon": "Globe",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "details": "Full site build with modern design, CMS setup for easy content management, SEO basics to get found online, mobile responsive, and 1-month support to ensure smooth operation.",
+    "features": ["Custom Design", "CMS Integration", "SEO Optimized", "Mobile Responsive", "1-Month Support"]
+  },
+  {
+    "id": "web-02",
+    "category": "Web Development",
+    "title": "E-Commerce Store",
+    "tagline": "Start selling online with a professional shop",
+    "price": "From $850",
+    "icon": "ShoppingCart",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800",
+    "details": "Complete online store with secure payment integration, inventory management, order tracking, customer accounts, and responsive design.",
+    "features": ["Payment Gateway", "Inventory System", "Customer Portal", "Order Management", "Analytics Dashboard"]
+  },
+  {
+    "id": "web-03",
+    "category": "Web Development",
+    "title": "Web Application",
+    "tagline": "Custom web apps tailored to your needs",
+    "price": "From $1,200",
+    "icon": "Code",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "details": "Build powerful web applications with custom functionality, user authentication, database integration, and API development.",
+    "features": ["Custom Features", "User Authentication", "Database Design", "API Integration", "Scalable Architecture"]
+  },
+  {
+    "id": "graphic-01",
+    "category": "Graphic Design",
+    "title": "Brand Identity Package",
+    "tagline": "Complete branding for your business",
+    "price": "From $350",
+    "icon": "Palette",
+    "image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?w=800",
+    "details": "Logo design, business card, letterhead, social media templates, brand guidelines, and color palette.",
+    "features": ["Logo Design", "Business Cards", "Social Media Kit", "Brand Guidelines", "Print Ready Files"]
+  },
+  {
+    "id": "graphic-02",
+    "category": "Graphic Design",
+    "title": "Social Media Graphics",
+    "tagline": "Engaging visuals for your social channels",
+    "price": "From $150",
+    "icon": "ImageIcon",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+    "details": "Custom graphics for Instagram, Facebook, LinkedIn, and Twitter. Monthly packages available.",
+    "features": ["Custom Templates", "Platform Optimized", "Brand Consistent", "Unlimited Revisions", "Source Files"]
+  },
+  {
+    "id": "course-01",
+    "category": "Digital Courses",
+    "title": "Web Design Fundamentals",
+    "tagline": "Learn to design beautiful websites",
+    "price": "$199",
+    "icon": "GraduationCap",
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800",
+    "details": "8-week course covering HTML, CSS, responsive design, and modern frameworks. Includes live sessions and project feedback.",
+    "features": ["8 Weeks", "Live Sessions", "Project Work", "Certificate", "Lifetime Access"]
+  },
+  {
+    "id": "consult-01",
+    "category": "Consultations",
+    "title": "Digital Strategy Session",
+    "tagline": "Expert guidance for your digital growth",
+    "price": "$120/hour",
+    "icon": "Lightbulb",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800",
+    "details": "One-on-one consultation for website strategy, SEO, social media, and digital marketing planning.",
+    "features": ["Strategy Planning", "SEO Audit", "Social Media Review", "Action Plan", "Follow-up Support"]
+  },
+  {
+    "id": "consult-02",
+    "category": "Consultations",
+    "title": "Technical Support",
+    "tagline": "Ongoing support for your digital presence",
+    "price": "From $80/month",
+    "icon": "Headphones",
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
+    "details": "Monthly retainer for website updates, bug fixes, content updates, and technical support.",
+    "features": ["Priority Support", "Monthly Updates", "Bug Fixes", "Content Changes", "Performance Monitoring"]
+  }
+]

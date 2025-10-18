@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faq-01",
+    "question": "How long does it take to build a website?",
+    "answer": "Typical timeline is 2-4 weeks for a business website, depending on complexity and content readiness. E-commerce sites take 4-6 weeks, and custom web applications can take 6-12 weeks. We'll provide a detailed timeline during our initial consultation."
+  },
+  {
+    "id": "faq-02",
+    "question": "Do you offer website maintenance and support?",
+    "answer": "Yes! All projects include 1 month of free support. After that, we offer monthly maintenance packages starting from $80/month covering updates, backups, security, and technical support."
+  },
+  {
+    "id": "faq-03",
+    "question": "Can I update the website content myself?",
+    "answer": "Absolutely! We build websites with user-friendly content management systems (CMS) like WordPress or custom dashboards. We also provide training so you can easily update text, images, and other content."
+  },
+  {
+    "id": "faq-04",
+    "question": "What's included in your graphic design services?",
+    "answer": "Our design services include logo design, brand identity, business cards, social media graphics, marketing materials, and more. All deliverables come in print-ready and web-ready formats with unlimited revisions until you're satisfied."
+  },
+  {
+    "id": "faq-05",
+    "question": "How do your digital courses work?",
+    "answer": "Our courses are live online sessions combined with recorded materials and practical projects. You'll get lifetime access to course materials, certificates upon completion, and ongoing community support."
+  },
+  {
+    "id": "faq-06",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept M-Pesa, bank transfers, PayPal, and credit/debit cards. Projects are typically split into milestones: 50% deposit to start, 50% on completion. Custom payment plans available for larger projects."
+  },
+  {
+    "id": "faq-07",
+    "question": "Do you work with international clients?",
+    "answer": "Yes! We work with clients globally. All communication happens via email, WhatsApp, and video calls. Time zone differences are never an issue — we're flexible and responsive."
+  },
+  {
+    "id": "faq-08",
+    "question": "What makes Cyrix different from other agencies?",
+    "answer": "We combine technical expertise with creative design and genuine care for your success. You work directly with Reagan, not through layers of project managers. We're invested in building long-term partnerships, not just completing projects."
+  }
+]

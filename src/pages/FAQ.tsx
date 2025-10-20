@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { motion } from 'framer-motion';
 import { Plus, Minus } from 'lucide-react';
 import faqData from '@/data/faq.json';
@@ -8,6 +9,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from '@/components/ui/accordion';
+
 
 const FAQ = () => {
   return (
@@ -86,12 +88,12 @@ const FAQ = () => {
             <p className="text-lg text-muted-foreground mb-8">
               Can't find what you're looking for? Our team is here to help answer any questions you may have.
             </p>
-            <a
+            <link
               href="/contact"
               className="inline-block px-8 py-4 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all hover:scale-105 font-semibold text-lg shadow-lg"
             >
               Contact Us
-            </a>
+            </link>
           </motion.div>
         </div>
       </section>

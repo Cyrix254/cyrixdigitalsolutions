@@ -5,6 +5,9 @@ import siteData from '@/data/site.json';
 import QuickLinks from '@/components/QuickLinks';
 import { useToast } from '@/hooks/use-toast';
 
+
+
+
 const Contact = () => {
   const { toast } = useToast();
   const [formData, setFormData] = useState({

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { motion } from 'framer-motion';
 import { Star, Quote } from 'lucide-react';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -116,12 +117,12 @@ const Testimonials = () => {
             <p className="text-lg text-muted-foreground mb-8">
               Let's work together to create something amazing for your business.
             </p>
-            <a
-              href="/contact"
+            <Link
+              to="/contact"
               className="inline-block px-8 py-4 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all hover:scale-105 font-semibold text-lg shadow-lg"
             >
               Get Started Today
-            </a>
+            </Link>
           </motion.div>
         </div>
       </section>

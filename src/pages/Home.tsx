@@ -110,7 +110,7 @@ const Home = () => {
               variants={itemVariants}
               className="text-base md:text-lg text-gray-200 mb-8 max-w-2xl"
             >
-              From stunning websites to strategic digital solutions, we transform your vision into reality with creativity, expertise, and dedication.
+              From stunning websites to strategic digital solutions, we help entrepreneurs and businesses turn visibility into credibility and digital learners to grow, create and lead online.
             </motion.p>
 
             {/* CTA Buttons */}

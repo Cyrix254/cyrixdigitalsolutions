@@ -16,7 +16,7 @@ const Footer = () => {
                 C
               </div>
               <div>
-                <div className="font-display font-bold text-lg">Cyrix Digital</div>
+                <div className="font-display font-bold text-lg">Cyrix Digital Solutions</div>
                 <div className="text-xs text-gray-300">{siteData.tagline}</div>
               </div>
             </div>
@@ -118,7 +118,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="pt-8 border-t border-white/10 text-center">
           <p className="text-sm text-gray-300">
-            © {currentYear} Cyrix Digital Solutions. Designed & Managed by Reagan Tzisaga.
+            © {currentYear} Cyrix Digital Solutions. Designed & Managed by Cyrix Ray.
           </p>
         </div>
       </div>

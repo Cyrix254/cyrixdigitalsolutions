@@ -2,9 +2,9 @@
   {
     "id": "web-01",
     "category": "Web Development",
-    "title": "Business Website",
+    "title": "Business Website & Corporate websites",
     "tagline": "Modern, responsive websites to grow your brand",
-    "price": "From Ksh.10,000 - Ksh.30,000",
+    "price": "From Ksh.10,000-Ksh.30,000",
     "icon": "Globe",
     "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
     "details": "Full site build with modern design, CMS setup for easy content management, SEO basics to get found online, mobile responsive, and 1-month support to ensure smooth operation.",
@@ -13,9 +13,9 @@
   {
     "id": "web-02",
     "category": "Web Development",
-    "title": "E-Commerce Store",
+    "title": "E-Commerce Website",
     "tagline": "Start selling online with a professional shop",
-    "price": "From Ksh.25,000 - Ksh.60,000",
+    "price": "From Ksh.25,000-Ksh.60,000",
     "icon": "ShoppingCart",
     "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800",
     "details": "Complete online store with secure payment integration, inventory management, order tracking, customer accounts, and responsive design.",
@@ -32,6 +32,80 @@
     "details": "Build powerful web applications with custom functionality, user authentication, database integration, and API development.",
     "features": ["Custom Features", "User Authentication", "Database Design", "API Integration", "Scalable Architecture"]
   },
+
+  {
+    "id": "web-04",
+    "category": "Web Development",
+    "title": "Portfolio & Personal Brand Websites",
+    "tagline": "Modern, responsive websites to grow your brand",
+    "price": "From Ksh.7,000-Ksh.25,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/service-4-web",
+    "details": "Showcase your work, skills and story. Perfect for creatives, freelancers and professionals. ",
+    "features": ["Responsive Design", "Contact & Inquiry features", "Basic SEO Setup", "Embedded Google Maps", "Social Media Intergration", "Email Setup"]
+  },
+
+  {
+    "id": "web-05",
+    "category": "Web Development",
+    "title": "Landing Page Design",
+    "tagline": "Modern, responsive landing page to grow your brand",
+    "price": "From Ksh.5,000-Ksh.15,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/landing-mock",
+    "details": "High-converting landing pages for campaigns, product launches, and lead generation. ",
+    "features": ["Responsive Design", "Contact & Inquiry features", "Basic SEO Setup", "Embedded Google Maps", "Social Media Intergration", "Email Setup"]
+  },
+
+  {
+    "id": "web-06",
+    "category": "Web Development",
+    "title": "Website maintenance & Support",
+    "tagline": "Performance, Protection, Perfection",
+    "price": "From Ksh.5,000-Ksh.10,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/website-sup",
+    "details": "Our maintenance and support services ensure your website stays fast, secure and up to date. From regular backups to bug fixes and perfomance monitoring, we handle the technical side so you can focus on growing your business. ",
+    "features": ["Perfomance Optimization", "Technical fixes", "Basic SEO Setup", "Backups & Updates"]
+  },
+
+  {
+    "id": "web-07",
+    "category": "Web Development",
+    "title": "Website Redesign & Revamp",
+    "tagline": "Give your website the upgrade it deserves",
+    "price": "From Ksh.5,000-Ksh.10,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/web-re-design",
+    "details": "Your website should evolve as your business grows. We refine your content, structure, visuals and user experience to create a site that feels fresh,fast and future ready. ",
+    "features": ["Perfomance Optimization", "Technical fixes", "Basic SEO Setup", "Content Restructuring", "Backups & Updates"]
+  },
+  
+  {
+    "id": "web-08",
+    "category": "Web Development",
+    "title": "Website Hosting & Domain Setup",
+    "tagline": "Claim your space on the internet with confidence",
+    "price": "Ksh.5,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/web6-host",
+    "details": "Your digital journey begins with the right domain and dependable hosting. We help you choose the right domain name, set up fast and secure hosting. ",
+    "features": ["Secure SSL Certificate Installation", "Business email setup", "Basic SEO Setup", "Free migration from old hosting", "Backups & Updates"]
+  },
+  
+  {
+    "id": "web-09",
+    "category": "Web Development",
+    "title": "Search Engine Optimization (SEO)",
+    "tagline": "Turn clicks into customers with SEO that works",
+    "price": "Ksh.5,000",
+    "icon": "Globe",
+    "image": "https://tinyurl.com/SEARCH-EO",
+    "details": "At Cyrix Digital Solutions, we optimize your site for both people and search engines, combining technical excellence, keyword strategy and content alignment to make your brand stand out online. ",
+    "features": ["Secure SSL Certificate Installation", "Business email setup", "Basic SEO Setup", "Free migration from old hosting", "Backups & Updates"]
+  },
+  
+
   {
     "id": "graphic-01",
     "category": "Graphic Design",
@@ -63,8 +137,81 @@
     "icon": "GraduationCap",
     "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800",
     "details": "8-week course covering HTML, CSS, Bootstrap, Javascript responsive design, and modern frameworks. Includes live sessions and project feedback.",
-    "features": ["8 Weeks", "Live Sessions", "Project Work", "Certificate", "Lifetime Access"]
+    "features": ["8 Weeks", "Virtual Sessions", "Project Work", "Certificate", "Lifetime Access"]
   },
+{
+  "id": "course-02",
+    "category": "Digital Courses",
+    "title": "Cybersecurity Essentials",
+    "tagline": "Master the basics of cybersecurity and take control of your digital safety",
+    "price": "Ksh.1,000",
+    "icon": "GraduationCap",
+    "image": "https://media.istockphoto.com/id/2223015556/photo/protecting-herself-from-cyber-attacks-and-personal-data-protection-data-access-cyber-security.jpg?s=612x612&w=0&k=20&c=zYZZPE2tzpdIEI4ueuPJIILw_thQGgMXGzrSPQCOVm8=",
+    "details": "Learn how cyber threats work, how to secure your personal data and business data. Whether you're a freelancer,student or business owner,this course gives you the confidence to navigate the internet securely and protect what matters most,",
+    "features": ["2 Weeks", "Virtual Sessions" ]
+  },
+
+  {
+    "id": "course-03",
+    "category": "Digital Courses",
+    "title": "Advanced Cybersecurity",
+    "tagline": "Learn how to secure networks, monitor systems and stop breaches before they happen",
+    "price": "Ksh.3,000 per month",
+    "icon": "GraduationCap",
+    "image": "https://tinyurl.com/advanced-cyber-security",
+    "details": "Advanced Cybersecurity is designed for learners who already understand the basics and want to level up to real-world protection and defense and strategies. Dive deeper into network security, ethical hacking, data encryption and threat analysis that keep businesses and systems safe.",
+    "features": ["2 Months", "Virtual Sessions", "Project Work" ]
+  },
+
+  {
+    "id": "course-04",
+    "category": "Digital Courses",
+    "title": "Computer Packages",
+    "tagline": "From Zero to Hero. Learn essential computer skills",
+    "price": "Ksh.1,500",
+    "icon": "GraduationCap",
+    "image": "https://tinyurl.com/computer-package",
+    "details": "Computer Packages course is designed for beginners who want to master essential computer skills. Whether you're a student, professional or entrepreneur, this course will take you from zero to hero in using popular software like Microsoft Word, Excel, PowerPoint, and more. Gain confidence in creating documents, spreadsheets, presentations and managing files effectively.",
+    "features": ["4 Weeks", "Virtual Sessions", "Project Work" ]
+  },
+
+  {
+    "id": "course-05",
+    "category": "Digital Courses",
+    "title": "Freelancing",
+    "tagline": "Work Smart. Work Free",
+    "price": "Ksh.1,500",
+    "icon": "GraduationCap",
+    "image": "https://tinyurl.com/free-lncer",
+    "details": "Discover how to market your skills online, manage clients, and build a safety income as a freelancer. Perfect for creatives, tech enthuasists and anyone ready to work independently.",
+    "features": ["4 Weeks", "Virtual Sessions", "Project Work" ]
+  },
+
+  {
+    "id": "course-06",
+    "category": "Digital Courses",
+    "title": "Artificial Intelligence(AI)",
+    "tagline": "Master the Power of Artificial Intelligence",
+    "price": "Ksh.1000",
+    "icon": "GraduationCap",
+    "image": "https://tinyurl.com/intel-ligence",
+    "details": "Explore the exciting side of AI and discover how it's changing industries. Learn how artificial intlligence works, where it is used and how you can leverage it.",
+    "features": ["2 Weeks", "Virtual Sessions", "Project Work" ]
+  },
+
+  {
+    "id": "course-07",
+    "category": "Digital Courses",
+    "title": "Graphics Design(Canva)",
+    "tagline": "Design like a Pro using Canva",
+    "price": "Ksh.500",
+    "icon": "GraduationCap",
+    "image": "https://tinyurl.com/c-grap-hics",
+    "details": "Learn the art of modern design using Canva-from creating stunning social media graphics,professional presentations,logos,posters, Ads, basic video editing and brandkits. Perfect for creatives,marketers and entrepreneurs",
+    "features": ["2 Weeks", "Virtual Sessions", "Project Work" ]
+  },
+
+
   {
     "id": "consult-01",
     "category": "Consultations",
@@ -92,12 +239,24 @@
     "id": "consult-03",
     "category": "Consultations",
     "title": "Business Setup",
-    "tagline": "Ongoing support for your digital presence",
-    "price": "From Ksh. 7,000/month",
+    "tagline": "Build a business that is ready for the digital age",
+    "price": "From Ksh. 7,000",
     "icon": "Headphones",
-    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
+    "image": "https://tinyurl.com/mr25p8c9",
     "details": "Monthly checkup for your business, content updates, and technical support.",
     "features": ["Online Presence", "Monthly Updates",  "Content Changes", "Performance Monitoring"]
+  },
+
+  {
+    "id": "consult-04",
+    "category": "Consultations",
+    "title": "Tech & Productivity Systems",
+    "tagline": "Work smarter, not harder",
+    "price": "From Ksh. 1,000",
+    "icon": "Headphones",
+    "image": "https://tinyurl.com/tech-prod",
+    "details": "We help you set up smart digital tools like Google Workspace, automations, and AI assistants to streamline your business operations. ",
+    "features": ["Online Setup", "Monthly Updates",  "Content Changes", "Performance Monitoring"]
   }
 
 ]

@@ -47,22 +47,9 @@ const Contact = () => {
         setFormData({ name: '', email: '', category: '', message: '' });
         
         // Optional: Redirect to WhatsApp
-        setTimeout(() => {
-          window.open(siteData.whatsapp, '_blank');
-        }, 1500);
-      } else {
-        throw new Error('Failed to send message');
-      }
-    } catch (error) {
-      toast({
-        title: 'Error',
-        description: 'Failed to send message. Please try again.',
-        variant: 'destructive',
-      });
-    } finally {
-      setIsSubmitting(false);
-    }
-  };
+        
+    
+  
 
   const categories = [
     'Web Development',

@@ -43,7 +43,7 @@ const Services = () => {
               Our Services
             </h1>
             <p className="text-lg md:text-xl text-white/90">
-              From web development to graphic design and digital training, we offer comprehensive solutions to elevate your digital presence.
+            At Cyrix Digital Solutions, we build, design, and elevate your digital presence through creativity, strategy, and technology that drive real results.
             </p>
           </motion.div>
         </div>

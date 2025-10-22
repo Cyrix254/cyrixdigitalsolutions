@@ -102,7 +102,7 @@
     "icon": "Globe",
     "image": "https://tinyurl.com/SEARCH-EO",
     "details": "At Cyrix Digital Solutions, we optimize your site for both people and search engines, combining technical excellence, keyword strategy and content alignment to make your brand stand out online. ",
-    "features": ["Secure SSL Certificate Installation", "Business email setup", "Basic SEO Setup", "Free migration from old hosting", "Backups & Updates"]
+    "features": ["Secure SSL Certificate Installation", "Business email setup", "On-page SEO", " Off-page SEO", "Free migration from old hosting", "Backups & Updates"]
   },
   
 
@@ -114,7 +114,7 @@
     "price": "From Ksh.1,500-Ksh.4,000",
     "icon": "Palette",
     "image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?w=800",
-    "details": "Logo design, business card, letterhead, social media templates, brand guidelines, and color palette.",
+    "details": "We craft unique brand identities that capture who you are and what you stand for. From elegant logos to color palettes and typography systems, we create cohesive visuals that make your brand instantly recognizable and unforgettable. Your brand isn’t just a design — it’s an experience.",
     "features": ["Logo Design", "Business Cards", "Social Media Kit", "Brand Guidelines", "Print Ready Files"]
   },
   {
@@ -122,12 +122,61 @@
     "category": "Graphic Design",
     "title": "Social Media Graphics",
     "tagline": "Engaging visuals for your social channels",
-    "price": "From Ksh.500-Ksh.2,000",
+    "price": "From Ksh.300-Ksh.1,500",
     "icon": "ImageIcon",
     "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
-    "details": "Custom graphics for Instagram, Facebook, LinkedIn, and Twitter. Monthly packages available.",
-    "features": ["Custom Templates", "Platform Optimized", "Brand Consistent", "Unlimited Revisions", "Source Files"]
+    "details": "Your audience scrolls fast — our designs make them stop. We create attention-grabbing visuals tailored for Instagram, Facebook, LinkedIn, YouTube, and WhatsApp that reflect your brand voice and boost engagement. From posts to stories and ads, we turn your pages into digital showcases that sell.",
+    "features": ["Instagram, Facebook & LinkedIn Post Templates", "Stories, Reels & Ad Graphics", "YouTube Thumbnails & Banners", "WhatsApp Status Design Packages"]
   },
+
+  {
+    "id": "graphic-03",
+    "category": "Graphic Design",
+    "title": "Marketing & Print Design",
+    "tagline": "",
+    "price": "From Ksh.500-Ksh.2,000",
+    "icon": "ImageIcon",
+    "image": "https://tinyurl.com/mar-keting",
+    "details": "From bold posters to elegant brochures, we bring your brand to life in print. Our designs are crafted to connect emotionally and communicate clearly — whether it’s a business profile, product label, or flyer. Every print piece we design is built to impress, persuade, and leave a lasting mark.",
+    "features": ["Flyers, Posters, and Brochures", "Business Profiles & Company Portfolios", "Banners (Roll-up, Billboard, Digital)", "Product Labels & Packaging Design"]
+  },
+
+  {
+    "id": "graphic-04",
+    "category": "Graphic Design",
+    "title": "Web & UI Design",
+    "tagline": "Beautiful, functional visuals for websites and apps",
+    "price": "From Ksh.1,000-Ksh.5,000",
+    "icon": "ImageIcon",
+    "image": "https://tinyurl.com/mar-keting",
+    "details": "We design sleek, user-focused web interfaces that merge beauty with functionality. Every element — from color choices to layout — is built to enhance user experience and brand credibility. Whether it’s a landing page mockup or an app interface, our designs help you attract, engage, and convert visitors.",
+    "features": ["Website Mockups & Landing Page Design", "UI/UX Layouts for Apps", "Web Banners & Ad Creatives", "Hero Section Visuals"]
+  },
+
+  {
+    "id": "graphic-05",
+    "category": "Graphic Design",
+    "title": "Presentation & Document Design",
+    "tagline": "Turn simple slides or documents into powerful visuals",
+    "price": "From Ksh.1,000-Ksh.3,500",
+    "icon": "ImageIcon",
+    "image": "https://tinyurl.com/pre-sen-tation",
+    "details":"Make every pitch or document a statement of professionalism. We transform plain slides, PDFs, resumes, and proposals into visually compelling materials that communicate your message with confidence and clarity. Perfect for businesses, students, and professionals who want to stand out.",
+    "features": ["PowerPoint & Pitch Deck Design", "PDF Layouts & E-Books", "Resume/CV Design", "Business Proposals & Reports"]
+  },
+
+  {
+    "id": "graphic-06",
+    "category": "Graphic Design",
+    "title": "Motion & Animated Graphics",
+    "tagline": "Because your brand deserves more than static visuals",
+    "price": "From Ksh.1,000-Ksh.3,000",
+    "icon": "ImageIcon",
+    "image": "https://tinyurl.com/moti-on-graphics",
+    "details":"Static visuals tell stories — motion makes them unforgettable. We create engaging logo animations, promotional videos, and animated social media ads that breathe life into your brand. Perfect for video intros, marketing campaigns, and digital storytelling that demands attention.",
+    "features": ["Logo Animations", "Animated Social Media Ads", "Explainer Videos", "Intro/Outro Videos for YouTube"]
+  },
+
   {
     "id": "course-01",
     "category": "Digital Courses",

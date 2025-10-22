@@ -31,7 +31,7 @@ const Contact = () => {
 
     // Simulate form submission (integrate with Formspree)
     try {
-      const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+      const response = await fetch('https://formspree.io/f/meorbedv', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

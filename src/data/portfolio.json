@@ -4,17 +4,17 @@
     "category": "Web",
     "title": "Zuri Coffee Website",
     "description": "E-commerce website with custom checkout and CMS",
-    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800",
+    "image": "https://tinyurl.com/e-comm-erce",
     "technologies": ["React", "Stripe", "Shopify"],
     "link": "#"
   },
   {
     "id": "p-02",
     "category": "Web",
-    "title": "Mavazi Fashion Store",
-    "description": "Modern fashion e-commerce with virtual try-on",
-    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
-    "technologies": ["Next.js", "AR Kit", "Commerce.js"],
+    "title": "Book Landing Page",
+    "description": "Book landing page showcasing clean design, responsive structure, and a user-focused approach to digital storytelling.",
+    "image": "https://tinyurl.com/book-landing-page",
+    "technologies": ["React"],
     "link": "#"
   },
   {
@@ -29,9 +29,9 @@
   {
     "id": "p-04",
     "category": "Graphics",
-    "title": "Savanna Lodge Branding",
-    "description": "Complete brand identity for luxury safari lodge",
-    "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?w=800",
+    "title": "Book Cover Design-The Unseen Crown.",
+    "description": "Crafted a bold and visually striking cover for e-book The Unseen Crown, a transformational book that explores themes of hidden greatness, identity, and purpose. The design captures the essence of hidden royalty, greatness shaped in solitude..not spotlight. The use of shadows and intense expression reflects the weight of unspoken dreams and the power of inner transformation.",
+    "image": "https://tinyurl.com/book-co-ver",
     "technologies": ["Illustrator", "Photoshop", "InDesign"],
     "link": "#"
   },
@@ -39,9 +39,9 @@
     "id": "p-05",
     "category": "Graphics",
     "title": "Urban Eats Restaurant",
-    "description": "Menu design and marketing materials",
-    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
-    "technologies": ["Photoshop", "Illustrator"],
+    "description": "A visually captivating promotional design for a premium coffee brand, crafted to awaken both sense and sales. The design blends rich earthy tones, inviting typography, and imagery that evokes warmth and energy;perfect morning routines and lifestyle branding.",
+    "image": "https://tinyurl.com/coffee-graphic",
+    "technologies": ["Photoshop"],
     "link": "#"
   },
   {
@@ -56,19 +56,19 @@
   {
     "id": "p-07",
     "category": "Courses",
-    "title": "Digital Marketing Course",
-    "description": "Comprehensive online marketing training",
-    "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=800",
-    "technologies": ["Video Production", "Course Platform"],
+    "title": "Digital Skills Workshop",
+    "description": "Planned and facilitated an engaging digital skills workshop tailored for youth and early professionals, covering key tools like Google Workspace, Canva, Data Analysis and Management, Freelancing and Basic Cybersecurity Practices.",
+    "image": "https://tinyurl.com/digital-work-shop",
+    "technologies": ["Virtual(Zoom)"],
     "link": "#"
   },
   {
     "id": "p-08",
     "category": "Graphics",
-    "title": "Startup Pitch Decks",
-    "description": "Investor-ready presentation designs",
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800",
-    "technologies": ["PowerPoint", "Keynote", "Figma"],
+    "title": "Cybersecurity Awareness Poster",
+    "description": "Designed a poster for cybersecuity awareness training aimed at educating beginners on online safety and protection practices.",
+    "image": "https://tinyurl.com/cyber-sec-urity",
+    "technologies": ["Photoshop", "Canva"],
     "link": "#"
   }
 ]

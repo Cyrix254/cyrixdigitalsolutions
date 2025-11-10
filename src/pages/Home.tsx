@@ -86,7 +86,7 @@ const Home = () => {
   className="flex items-center space-x-3 mb-8"
 >
   <div className="w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-accent to-primary rounded-xl flex items-center justify-center font-display font-bold text-2xl sm:text-3xl shadow-2xl">
-    C
+    CR
   </div>
   <div>
     <h1 className="font-display font-bold text-2xl sm:text-3xl md:text-4xl">

@@ -142,6 +142,16 @@ const Services = () => {
       {/* Service Modal */}
       <Dialog open={!!selectedService} onOpenChange={() => setSelectedService(null)}>
         <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+
+
+          
+        <button
+            onClick={() => setSelectedService(null)}
+            className="absolute top-4 right-4 w-10 h-10 bg-red-500 text-white rounded-full flex items-center justify-center hover:bg-red-600 transition-all shadow-lg"
+            aria-label="Close"
+          >
+            <X className="w-6 h-6" />
+          </button>
           {selectedService && (
             <div>
               <img

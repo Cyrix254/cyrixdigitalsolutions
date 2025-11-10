@@ -1,25 +1,25 @@
 [
   {
     "id": "t-01",
-    "name": "Asha Mwangi",
+    "name": "Annette Kavaya",
     "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
     "rating": 5,
-    "company": "Asha Boutique",
-    "role": "Founder & CEO",
-    "feedback": "Cyrix transformed our online presence — our online sales doubled in just 3 months. The website is beautiful and our customers love the seamless shopping experience!"
+    "company": "Kenya Veterinary Production Institute",
+    "role": "Microbiologist & Biotechnologist",
+    "feedback": "Cyrix did an incredible job optimizing my LinkedIn profile. The layout, tone, and  overall presentation now look polished and stand out professionally. I've received more engagement and connection requests since the update."
   },
   {
     "id": "t-02",
-    "name": "James Omondi",
+    "name": "Happy Andala",
     "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
     "rating": 5,
-    "company": "BuildRight Construction",
-    "role": "Managing Director",
-    "feedback": "Professional, responsive, and truly understands business needs. Our new website generates quality leads every week. Best investment we've made in our digital presence."
+    "company": "Student at Technical University of Mombasa",
+    "role": "Equity Bank Intern",
+    "feedback": "Collaborating with Cyrix and Cyrix Digital solutions was truly an enriching experience. Together, we successfully hosted a virtual masterclass that empowered digital enthuasists with practical skills and industry-ready knowledge. His creativity, reliability and commitment to impact made collaboration seamless and inspiring."
   },
   {
     "id": "t-03",
-    "name": "Sarah Kimani",
+    "name": "William Masibo",
     "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
     "rating": 5,
     "company": "Fresh Harvest Kenya",
@@ -28,7 +28,7 @@
   },
   {
     "id": "t-04",
-    "name": "David Njoroge",
+    "name": "Dennis Mwachi",
     "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
     "rating": 5,
     "company": "TechStart Hub",

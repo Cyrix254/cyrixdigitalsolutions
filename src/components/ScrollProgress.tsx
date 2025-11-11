@@ -1,8 +1,15 @@
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
+import { useLocation } from 'react-router-dom';
 
 const ScrollProgress = () => {
   const [scrollProgress, setScrollProgress] = useState(0);
+  const location = useLocation(); // Hook to detect route changes
+
+  useEffect(() => {
+    // Scroll to the top when the route changes
+    window.scrollTo(0, 0);
+  }, [location]);
 
   useEffect(() => {
     const updateScrollProgress = () => {

@@ -83,11 +83,7 @@ const Testimonials = () => {
 
                   {/* Client Info */}
                   <div className="flex items-center space-x-4 pt-6 border-t border-border">
-                    <img
-                      src={testimonial.photo}
-                      alt={testimonial.name}
-                      className="w-14 h-14 rounded-full object-cover"
-                    />
+                   
                     <div>
                       <div className="font-display font-bold text-lg">{testimonial.name}</div>
                       <div className="text-sm text-muted-foreground">{testimonial.role}</div>

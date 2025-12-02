@@ -2,7 +2,7 @@
   {
     "id": "t-01",
     "name": "Annette Kavaya",
-    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+ 
     "rating": 5,
     "company": "Kenya Veterinary Production Institute",
     "role": "Microbiologist & Biotechnologist",
@@ -11,7 +11,7 @@
   {
     "id": "t-02",
     "name": "Happy Andala",
-    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+
     "rating": 5,
     "company": "Student at Technical University of Mombasa",
     "role": "Equity Bank Intern",
@@ -20,7 +20,7 @@
   {
     "id": "t-03",
     "name": "William Masibo",
-    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+
     "rating": 5,
     "company": "Fresh Harvest Kenya",
     "role": "Operations Manager",
@@ -29,7 +29,7 @@
   {
     "id": "t-04",
     "name": "Dennis Mwachi",
-    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+
     "rating": 5,
     "company": "TechStart Hub",
     "role": "Co-Founder",
@@ -38,7 +38,7 @@
   {
     "id": "t-05",
     "name": "Grace Wanjiku",
-    "photo": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400",
+   
     "rating": 5,
     "company": "Elite Spa & Wellness",
     "role": "Owner",
@@ -47,7 +47,7 @@
   {
     "id": "t-06",
     "name": "Michael Kariuki",
-    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+ 
     "rating": 5,
     "company": "Smart Logistics Ltd",
     "role": "CEO",

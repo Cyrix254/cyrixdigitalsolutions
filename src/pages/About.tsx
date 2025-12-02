@@ -89,7 +89,7 @@ const About = () => {
               <Target className="w-12 h-12 text-primary mb-4" />
               <h3 className="font-display font-bold text-2xl mb-4">Our Mission</h3>
               <p className="text-muted-foreground leading-relaxed">
-                To empower businesses with innovative digital solutions that drive growth, enhance brand visibility, and create lasting impact in the digital landscape.
+              To empower businesses with cutting-edge digital tools and to equip the next generation of tech talent with practical, industry-relevant skills.
               </p>
             </motion.div>
 
@@ -103,7 +103,7 @@ const About = () => {
               <Eye className="w-12 h-12 text-accent mb-4" />
               <h3 className="font-display font-bold text-2xl mb-4">Our Vision</h3>
               <p className="text-muted-foreground leading-relaxed">
-                To be the leading digital partner for businesses across Africa, known for excellence, innovation, and transformative digital experiences.
+              To be the go-to digital ecosystem where businesses grow and learners thrive.
               </p>
             </motion.div>
           </div>
@@ -172,8 +172,15 @@ const About = () => {
                 </div>
 
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  With years of experience in web development, graphic design, and digital strategy, Cyrix has helped hundreds of businesses establish and grow their online presence. His passion for technology and design drives every project, ensuring clients receive solutions that are both beautiful and functional.
+                Cyrix Ray is a versatile Web Developer, Graphic Designer, Digital Strategist, Freelancer, and Online Tutor.
+
+With a multifaceted career spanning across various tech disciplines, Cyrix founded Cyrix Digital Solutions to bridge the gap between complex technology and practical application. As an experienced freelancer and developer, he understands the grit required to build a brand from the ground up, bringing a hands-on, problem-solving approach to every client project.
+
+Beyond building digital assets, Cyrix is a passionate Online Tutor. He believes that digital literacy is the key to modern empowerment. This drive led to the creation of the company’s education wing, where he personally mentors aspiring tech enthusiasts.
+
+Whether he is crafting a high-level digital strategy for a startup or teaching the basics of graphic design to a new student, Cyrix’s mission remains the same: to make technology accessible, understandable, and profitable for everyone.
                 </p>
+
 
                 {/* Social Links */}
                 <div className="flex items-center space-x-4">

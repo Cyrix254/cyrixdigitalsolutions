@@ -140,66 +140,65 @@ const Services = () => {
       </section>
 
       {/* Service Modal */}
-      <Dialog open={!!selectedService} onOpenChange={() => setSelectedService(null)}>
-        <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+<Dialog open={!!selectedService} onOpenChange={() => setSelectedService(null)}>
+  <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
+    {/* Retain the red cancel button */}
+    <button
+      onClick={() => setSelectedService(null)}
+      className="absolute top-4 right-4 w-10 h-10 bg-red-500 text-white rounded-full flex items-center justify-center hover:bg-red-600 transition-all shadow-lg"
+      aria-label="Close"
+    >
+      <X className="w-6 h-6" />
+    </button>
 
+    {selectedService && (
+      <div>
+        <img
+          src={selectedService.image}
+          alt={selectedService.title}
+          className="w-full h-64 object-cover rounded-lg mb-6"
+        />
+        <div className="text-xs font-semibold text-accent mb-2 uppercase tracking-wide">
+          {selectedService.category}
+        </div>
+        <h2 className="font-display font-bold text-3xl mb-4">{selectedService.title}</h2>
+        <p className="text-muted-foreground mb-4">{selectedService.tagline}</p>
+        <div className="text-3xl font-bold text-primary mb-6">{selectedService.price}</div>
 
-          
-        <button
-            onClick={() => setSelectedService(null)}
-            className="absolute top-4 right-4 w-10 h-10 bg-red-500 text-white rounded-full flex items-center justify-center hover:bg-red-600 transition-all shadow-lg"
-            aria-label="Close"
-          >
-            <X className="w-6 h-6" />
-          </button>
-          {selectedService && (
-            <div>
-              <img
-                src={selectedService.image}
-                alt={selectedService.title}
-                className="w-full h-64 object-cover rounded-lg mb-6"
-              />
-              <div className="text-xs font-semibold text-accent mb-2 uppercase tracking-wide">
-                {selectedService.category}
-              </div>
-              <h2 className="font-display font-bold text-3xl mb-4">{selectedService.title}</h2>
-              <p className="text-muted-foreground mb-4">{selectedService.tagline}</p>
-              <div className="text-3xl font-bold text-primary mb-6">{selectedService.price}</div>
+        <div className="mb-6">
+          <h3 className="font-display font-semibold text-xl mb-3">Details</h3>
+          <p className="text-muted-foreground leading-relaxed">{selectedService.details}</p>
+        </div>
 
-              <div className="mb-6">
-                <h3 className="font-display font-semibold text-xl mb-3">Details</h3>
-                <p className="text-muted-foreground leading-relaxed">{selectedService.details}</p>
-              </div>
+        {selectedService.features && (
+          <div className="mb-6">
+            <h3 className="font-display font-semibold text-xl mb-3">What's Included</h3>
+            <ul className="space-y-2">
+              {selectedService.features.map((feature: string, index: number) => (
+                <li key={index} className="flex items-start space-x-2">
+                  <div className="w-5 h-5 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                    <div className="w-2 h-2 rounded-full bg-accent" />
+                  </div>
+                  <span>{feature}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
 
-              {selectedService.features && (
-                <div className="mb-6">
-                  <h3 className="font-display font-semibold text-xl mb-3">What's Included</h3>
-                  <ul className="space-y-2">
-                    {selectedService.features.map((feature: string, index: number) => (
-                      <li key={index} className="flex items-start space-x-2">
-                        <div className="w-5 h-5 rounded-full bg-accent/20 flex items-center justify-center flex-shrink-0 mt-0.5">
-                          <div className="w-2 h-2 rounded-full bg-accent" />
-                        </div>
-                        <span>{feature}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-
-              <a
-                href={siteData.whatsapp}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center space-x-2 w-full px-6 py-3 bg-accent text-white rounded-lg hover:bg-accent/90 transition-all"
-              >
-                <MessageCircle className="w-5 h-5" />
-                <span className="font-semibold">Book This Service</span>
-              </a>
-            </div>
-          )}
-        </DialogContent>
-      </Dialog>
+        <a
+          href={siteData.whatsapp}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center space-x-2 w-full px-6 py-3 bg-accent text-white rounded-lg hover:bg-accent/90 transition-all"
+        >
+          <MessageCircle className="w-5 h-5" />
+          <span className="font-semibold">Book This Service</span>
+        </a>
+      </div>
+    )}
+  </DialogContent>
+</Dialog>
 
       <QuickLinks />
     </div>

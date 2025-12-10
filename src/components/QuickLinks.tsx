@@ -88,7 +88,7 @@ const QuickLinks = () => {
           {/* Company Profile Download */}
           <motion.div variants={itemVariants}>
             <a
-              href="/company-profile.pdf"
+              href="public/Cyrix Digital Solutions (1).pdf"
               download
               className="inline-flex items-center space-x-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all hover:scale-105"
             >

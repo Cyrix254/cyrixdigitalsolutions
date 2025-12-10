@@ -85,9 +85,7 @@ const Home = () => {
   variants={itemVariants}
   className="flex items-center space-x-3 mb-8"
 >
-  <div className="w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-br from-accent to-primary rounded-xl flex items-center justify-center font-display font-bold text-2xl sm:text-3xl shadow-2xl">
-    CR
-  </div>
+ 
   <div>
     <h1 className="font-display font-bold text-2xl sm:text-3xl md:text-4xl">
       Cyrix Digital Solutions
@@ -133,20 +131,7 @@ const Home = () => {
               </a>
             </motion.div>
 
-            {/* Scroll Indicator */}
-            <motion.div
-              variants={itemVariants}
-              className="mt-16 flex flex-col items-center"
-            >
-              <p className="text-sm text-gray-300 mb-2">Scroll to explore</p>
-              <motion.div
-                animate={{ y: [0, 8, 0] }}
-                transition={{ duration: 1.5, repeat: Infinity }}
-                className="w-6 h-10 border-2 border-white/50 rounded-full flex justify-center pt-2"
-              >
-                <div className="w-1 h-2 bg-white rounded-full" />
-              </motion.div>
-            </motion.div>
+           
           </motion.div>
         </div>
       </section>

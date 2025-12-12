@@ -118,7 +118,7 @@ const Services = () => {
                           onClick={() => setSelectedService(service)}
                           className="flex-1 px-4 py-2.5 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all font-medium"
                         >
-                          View More
+                          View Details
                         </button>
                         <a
                           href={siteData.whatsapp}

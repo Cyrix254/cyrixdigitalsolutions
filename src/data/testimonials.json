@@ -22,18 +22,18 @@
     "name": "William Masibo",
 
     "rating": 5,
-    "company": "Fresh Harvest Kenya",
-    "role": "Operations Manager",
-    "feedback": "The e-commerce platform Reagan built for us handles thousands of orders seamlessly. The training and support have been exceptional. Highly recommend Cyrix!"
+    "company": "Murang'a Level 5 Hospital(MRCH)",
+    "role": "Physiotherapist Attachee",
+    "feedback": "Taking Cyrix's class was one of the best investments I’ve made for my professional development. I walked in wanting to improve my graphic design skills, but I walked out with a complete workflow system. The design modules gave me the creative confidence to produce high-quality visuals, while the Google Workspace training completely streamlined how I organize projects and collaborate with teams. It’s rare to find a course that balances creativity with practical productivity so well. Highly recommended!"
   },
   {
     "id": "t-04",
     "name": "Dennis Mwachi",
 
     "rating": 5,
-    "company": "TechStart Hub",
-    "role": "Co-Founder",
-    "feedback": "Working with Cyrix was a game-changer for our startup. The branding and web design perfectly capture our vision. Our investor pitch deck got rave reviews!"
+    "company": "Student at Karatina University",
+    "role": "Tutor",
+    "feedback": "Working alongside Cyrix Digital Solutions to prepare incoming university cohort was a highly successful venture. Cyrix Ray demonstrated exceptional capability in managing and delivering high-quality, relevant digital skills training to over 300 students. The focus on practical skills like graphic design and digital strategy has provided these young learners with a valuable head start for their future academic and professional careers."
   },
   {
     "id": "t-05",
@@ -42,15 +42,7 @@
     "rating": 5,
     "company": "Elite Spa & Wellness",
     "role": "Owner",
-    "feedback": "From brand identity to social media graphics, everything is stunning. Our clients constantly compliment our professional look. Reagan is incredibly talented!"
-  },
-  {
-    "id": "t-06",
-    "name": "Michael Kariuki",
- 
-    "rating": 5,
-    "company": "Smart Logistics Ltd",
-    "role": "CEO",
-    "feedback": "The web application Cyrix developed streamlined our entire logistics operation. Real-time tracking and automated reports save us hours every day. Exceptional work!"
+    "feedback": "From brand identity to social media graphics, everything is stunning. Our clients constantly compliment our professional look."
   }
+  
 ]
